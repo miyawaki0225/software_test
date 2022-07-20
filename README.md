@@ -103,5 +103,6 @@ Myersの14のシステムテストカテゴリ
 
 ![テスト観点一覧表：例](https://github.com/miyawaki0225/software_test/blob/main/%E3%83%86%E3%82%B9%E3%83%88%E8%A6%B3%E7%82%B9%E4%B8%80%E8%A6%A7%E8%A1%A8.png)
 
-
+![デシジョンテーブル：例]
+()
 
